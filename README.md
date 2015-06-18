@@ -2,7 +2,7 @@ Turtle's Website
 ==============================================================================================================================================
 <b>Licensed under the GNU GPL v2+ and created by Derek "Turtle" Roe</b>
 
-<b>All other content licensed under the Creative Commons Attribution Unported 3.0 license</b>
+<b>All other content licensed under the Creative Commons Attribution 4.0 International license</b>
 
 ==============================================
 
@@ -35,7 +35,7 @@ License
 
 <i>Licensed under the GNU GPL v2+ and created by Derek "Turtle" Roe</i>
 
-<i>All other content licensed under the Creative Commons Attribution Unported 3.0 license</i>
+<i>All other content licensed under the Creative Commons Attribution 4.0 International license</i>
 
 <i>This program is free software: you can redistribute it and/or modify</i>
 <i>it under the terms of the GNU General Public License as published by</i>
