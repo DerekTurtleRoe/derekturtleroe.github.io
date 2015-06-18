@@ -1,24 +1,22 @@
-Turtle's Website
-==============================================================================================================================================
+<h1>Turtle's Website</h1>
+
 <b>Licensed under the GNU GPL v2+ and created by Derek "Turtle" Roe</b>
 
 <b>All other content licensed under the Creative Commons Attribution 4.0 International license</b>
 
-==============================================
+This is [Turtle's website](https://vgturtle127.github.io/) which is coded in HTML5, CSS3, and JavaScript.
 
-[Turtle's website](https://vgturtle127.github.io/) which is coded in HTML5, CSS3, and JavaScript.
+If you wish to contact me visit [this]([https://vgturtle127.github.io/index.html#email) page.
 
-To contact me visit [this]([https://vgturtle127.github.io/index.html#email) page.
+If you have suggestions, comments, or questions, please feel free to contact me. 
 
-If you have suggestions, comments, or questions, please feel free to contact me. Don't forget donating helps me out greatly as I am doing this in my free time with my own money. Thanks! :)
+Don't forget donating helps me out greatly as I am doing this in my free time with my own money. Thanks! :-D
 
 [![PayPal - The safer, easier way to pay online!](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SLSU5GLW3V4PE "PayPal - The safer, easier way to pay online!")
 
-==============================================
+<h1>Features</h1>
 
-Features
-==============================================================================================================================================
-
+<b>
 - HTML5 and CSS3 verified by W3C standards<br>
 - All links checked with W3C as well<br>
 - All code heavily optimized, responsive, and mobile ready<br>
@@ -26,26 +24,25 @@ Features
 - Improved loading times and better user experience<br>
 - Updated frequently to provide the most accurate information<br>
 - humans.txt file<br>
-- Less code, lesser number of files, less hassle<br>
+- Less code, lesser number of files, less hassle<br></b>
 
-License
-=======================================================================
+<h1>License</h1>
 
-<i>Turtle's Website</i>
+<i>Turtle's Website
 
-<i>Licensed under the GNU GPL v2+ and created by Derek "Turtle" Roe</i>
+Licensed under the GNU GPL v2+ and created by Derek "Turtle" Roe
 
-<i>All other content licensed under the Creative Commons Attribution 4.0 International license</i>
+All other content licensed under the Creative Commons Attribution 4.0 International license
 
-<i>This program is free software: you can redistribute it and/or modify</i>
-<i>it under the terms of the GNU General Public License as published by</i>
-<i>the Free Software Foundation, either version 2 of the License, or</i>
-<i>any later version.</i>
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or
+any later version.
 
-<i>This program is distributed in the hope that it will be useful,</i>
-<i>but WITHOUT ANY WARRANTY; without even the implied warranty of</i>
-<i>MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the</i>
-<i>GNU General Public License for more details.</i>
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
 
-<i>You should have received a copy of the GNU General Public License</i>
-<i>along with this program.  If not, see http://www.gnu.org/licenses/</i>
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see http://www.gnu.org/licenses/</i>
