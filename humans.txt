@@ -1,0 +1,41 @@
+-- TEAM --
+
+All the code, design, art, programming, and administrative duties are done by me, Turtle!
+
+-- SITE --
+
+Last update: 01/20/2014
+
+Languages and formatting: HTML5, CSS3, JavaScript, encoded in UTF-8 without BOM, and Unix EOL
+
+File types used: HTML, CSS, JS, JPG, PNG
+
+-- COMPATIBILITY --
+
+This website has been tested on the latest stable versions of the five major browsers
+
+-- THANKS --
+
+Please feel free to contact me for any reason! I'm a nice guy, I don't bite. ;-)
+
+-- CONTACT --
+
+vgturtle127[at]gmail[dot][com]
+
+https://www.facebook.com/vgturtle127
+
+https://www.twitter.com/vgturtle127
+
+https://plus.google.com/+DerekRoeTurtle
+
+http://www.pinterest.com/vgturtle127
+
+http://vgturtle127.tumblr.com/
+
+https://www.youtube.com/vgturtle127
+
+http://www.twitch.tv/vgturtle127
+
+https://www.github.com/vgturtle127
+
+My Skype is turtle.roe
