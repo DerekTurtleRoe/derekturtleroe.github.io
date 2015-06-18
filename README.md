@@ -1,14 +1,14 @@
 Turtle's Website
 ==============================================================================================================================================
-<b>Licensed under the GNU GPL v3 and created by Derek "Turtle" Roe</b>
+<b>Licensed under the GNU GPL v2+ and created by Derek "Turtle" Roe</b>
 
 <b>All other content licensed under the Creative Commons Attribution Unported 3.0 license</b>
 
 ==============================================
 
-[Turtle's website](http://turtlesprojects.sourceforge.net/) which is coded in HTML5, CSS3, and JavaScript.
+[Turtle's website](https://vgturtle127.github.io/) which is coded in HTML5, CSS3, and JavaScript.
 
-To contact me visit [this](http://turtlesprojects.sourceforge.net/index.html#email) page.
+To contact me visit [this]([https://vgturtle127.github.io/index.html#email) page.
 
 If you have suggestions, comments, or questions, please feel free to contact me. Don't forget donating helps me out greatly as I am doing this in my free time with my own money. Thanks! :)
 
@@ -33,13 +33,13 @@ License
 
 <i>Turtle's Website</i>
 
-<i>Licensed under the GNU GPL v3 and created by Derek "Turtle" Roe</i>
+<i>Licensed under the GNU GPL v2+ and created by Derek "Turtle" Roe</i>
 
 <i>All other content licensed under the Creative Commons Attribution Unported 3.0 license</i>
 
 <i>This program is free software: you can redistribute it and/or modify</i>
 <i>it under the terms of the GNU General Public License as published by</i>
-<i>the Free Software Foundation, either version 3 of the License, or</i>
+<i>the Free Software Foundation, either version 2 of the License, or</i>
 <i>any later version.</i>
 
 <i>This program is distributed in the hope that it will be useful,</i>
