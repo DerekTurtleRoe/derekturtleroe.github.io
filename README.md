@@ -6,7 +6,7 @@
 
 This is [Turtle's website](https://vgturtle127.github.io/) which is coded in HTML5, CSS3, and JavaScript.
 
-If you wish to contact me visit [this]([https://vgturtle127.github.io/index.html#email) page.
+If you wish to contact me visit [this]([https://vgturtle127.github.io/index.html#email]) page.
 
 If you have suggestions, comments, or questions, please feel free to contact me. 
 
