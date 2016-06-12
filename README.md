@@ -6,11 +6,11 @@
 
 This is [Turtle's website](https://vgturtle127.github.io/) which is coded in HTML5, CSS3, and JavaScript.
 
-If you wish to contact me visit [this](https://vgturtle127.github.io/index.html) page.
+If you wish to contact me visit [this](https://vgturtle127.github.io) page.
 
-If you have suggestions, comments, or questions, please feel free to contact me. 
+If you have suggestions, comments, or questions, please feel free to contact me!
 
-Don't forget donating helps me out greatly as I am doing this in my free time with my own money. Thanks! :-D
+Don't forget donating helps me out greatly as I am doing this in my free time with my own money. Thanks! :smile:
 
 [![PayPal - The safer, easier way to pay online!](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SLSU5GLW3V4PE "PayPal - The safer, easier way to pay online!")
 
@@ -28,10 +28,10 @@ Don't forget donating helps me out greatly as I am doing this in my free time wi
 
 <h1>License</h1>
 
-<i>Turtle's Website
+Turtle's Website
 
 Licensed under the MIT license and modified by Derek "Turtle" Roe.
 
-All other content licensed under the Creative Commons Attribution 4.0 International license
+All other content licensed under the Creative Commons Attribution 4.0 International license.
 
-Credit to AJ from HTML5 UP and creator of Skel.js for the template I used and have modified heavily over the years. You rock, dude!
+Credit to AJ from HTML5 UP and creator of Skel.js and the template I used and the main template I have modified heavily over the years. You rock, dude!
