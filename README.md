@@ -1,3 +1,3 @@
-<h1>Turtle's Website</h1>
+<h1>Turtle's old website</h1>
 
-This is [Turtle's website](https://vgturtle127.github.io/) which is down at the moment.
+<h1>This was the code and assets used for [Turtle's website](https://vgturtle127.github.io/) which is now deprecated in favor of my new website, which is coming soon. 😄</h1>
