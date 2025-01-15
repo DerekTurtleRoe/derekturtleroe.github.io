@@ -1,3 +1,3 @@
 # Turtle's website
 
-## New website coming soon! 😄
+## New website should be up now! 😄
