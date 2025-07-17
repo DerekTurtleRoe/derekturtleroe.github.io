@@ -102,12 +102,12 @@
     {
         "path": "/authors/turtle/index.html",
         "type": "file",
-        "md5": "8a9ef29f8c9ba2ce96ca1c2cbd2fc730"
+        "md5": "cac009bb270fd21a5639d3507d75cb39"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "1a48b39dc114b12af81ed7b4292f30e6"
+        "md5": "b3c5ad45c9998086a4740a2b026aa66d"
     },
     {
         "path": "robots.txt",
@@ -127,6 +127,6 @@
     {
         "path": "test-page.html",
         "type": "file",
-        "md5": "37c4d103163bd4cdd6931551aa1848b3"
+        "md5": "7b37b8b425f596aa8ee294a58942b6c5"
     }
 ]
