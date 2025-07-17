@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "6c321336405523163e55e274fd7b0d07"
+        "md5": "7aa8e0a8dcd14c7d91f6b5b751ec5a85"
     },
     {
         "path": "assets",
@@ -27,7 +27,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "9ac3045b1a727c7938c187aa0847fb44"
+        "md5": "d0452dc359017e29f30d594f82762bfa"
     },
     {
         "path": "assets/dynamic",
@@ -102,12 +102,12 @@
     {
         "path": "/authors/turtle/index.html",
         "type": "file",
-        "md5": "eb5f5716727e1cfcbd473cb82789be73"
+        "md5": "8a9ef29f8c9ba2ce96ca1c2cbd2fc730"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "a9a29f714c14f7194e10230c0ff807d8"
+        "md5": "1a48b39dc114b12af81ed7b4292f30e6"
     },
     {
         "path": "robots.txt",
@@ -122,11 +122,11 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "888077b50a16ecf921d97a3e048e03af"
+        "md5": "3c606304d5e5a96a1deb852fa4e41994"
     },
     {
         "path": "test-page.html",
         "type": "file",
-        "md5": "2c938f4b15d3bfc41b219226f5c0a474"
+        "md5": "37c4d103163bd4cdd6931551aa1848b3"
     }
 ]
